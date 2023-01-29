@@ -1,7 +1,7 @@
 # Extracted BERT Model Leaks More Information than You Think!
 
 ## Descriptions
-This repo contains source code and pre-processed corpora for Extracted BERT Model Leaks More Information than You Think! (accepted to EMNLP 2022)
+This repo contains source code and pre-processed corpora for Extracted BERT Model Leaks More Information than You Think! (accepted to EMNLP 2022) ([paper](https://arxiv.org/abs/2210.11735)) ([code](https://github.com/xlhex/emnlp2022_aia))
 
 ## Dependencies
 * python3
